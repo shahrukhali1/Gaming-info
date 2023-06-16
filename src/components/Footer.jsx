@@ -65,9 +65,9 @@ const Footer = (props) => {
           </ul>
         </div>
         <p className='halant mt-7'>
-          Copyright &copy; {currentYear.getFullYear()} Dev KJ
+          Copyright &copy; {currentYear.getFullYear()} Software Eng
         </p>
-        <p className='halant text-sm mt-1'>Khasmir Jhon Caluscusao</p>
+        <p className='halant text-sm mt-1'>SHAHRUKH ALI</p>
       </div>
     </footer>
   )

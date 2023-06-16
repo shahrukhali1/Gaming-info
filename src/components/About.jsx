@@ -20,8 +20,7 @@ const About = () => {
               THE DEVELOPER
             </h1>
             <p className='lg:w-2/3 mx-auto leading-relaxed text-base nunito'>
-              If you don't take risks, you can't create a future. - Monkey D.
-              Luffy
+              If you don't take risks, you can't create a future.
             </p>
           </div>
           <div
@@ -34,14 +33,14 @@ const About = () => {
                 <img
                   alt='team'
                   className='flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4'
-                  src='/img/khasmir.jpg'
+                  src='/img/shahrukh.jpg'
                 />
                 <div className='flex-grow sm:pl-8'>
                   <h2 className='title-font font-medium text-lg text-white nunito'>
-                    Khasmir Jhon C. Caluscusao
+                    Shahrukh Ali
                   </h2>
                   <h3 className='text-gray-500 mb-3 nunito'>
-                    Middle Software Engineer
+                    Software Engineer
                   </h3>
                   <p className='mb-4 font-thin'>
                     I am a passionate and hardworking individual who is always
@@ -52,7 +51,7 @@ const About = () => {
                   </p>
                   <span className='inline-flex'>
                     <a
-                      href='https://www.facebook.com/khazmhir/'
+                      href='https://www.facebook.com/rude.sunny1/'
                       target='_blank'
                       rel='noreferrer'
                       className='text-gray-500'
@@ -70,7 +69,7 @@ const About = () => {
                       </svg>
                     </a>
                     <a
-                      href='https://twitter.com/khasmircortez'
+                      href='https://twitter.com/Shahrukhmayo717'
                       target='_blank'
                       rel='noreferrer'
                       className='ml-[10px] text-gray-500'
@@ -88,7 +87,7 @@ const About = () => {
                       </svg>
                     </a>
                     <a
-                      href='https://www.linkedin.com/in/khasmir/'
+                      href='https://www.linkedin.com/in/shahrukh-ali-028701176'
                       target='_blank'
                       rel='noreferrer'
                       className='ml-[10px] text-gray-500'
@@ -126,7 +125,7 @@ const About = () => {
                   </span>
                   <div>
                     <a
-                      href='https://blue-dot.vercel.app/'
+                      href='https://gamercity.netlify.app/'
                       target='_blank'
                       rel='noreferrer'
                       className='text-gray-500'
